@@ -1,7 +1,16 @@
 package prac2;
 
+/**
+ * Main class of Practice 2
+ * @author Kusovskyi Kyrylo
+ */
 public class Main {
 
+    /**
+     * Main method of project. Calls method from all classes
+     * made for this practice work.
+     * @param args parameters from command line
+     */
     public static void main(String[] args) {
         Class1 class1 = new Class1();
         Class2 class2 = new Class2();
