@@ -1,7 +1,7 @@
 package prac2;
 
 /**
- * public {@link  Interface2} Extends public {@link Interface3}, declares the abstract {@link #meth2()}
+ * public Interface2 Extends public {@link Interface3}, declares the abstract {@code meth2()}
  * method and extends abstract {@link Interface3#meth3()}.
  * @author Kusovkyi Kyrylo.
  */

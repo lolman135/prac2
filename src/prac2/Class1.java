@@ -1,6 +1,5 @@
 package prac2;
 
-
 /**
  * Class1 implements {@link Interface1},
  * consists Interface1 and Interface2 objects as fields.

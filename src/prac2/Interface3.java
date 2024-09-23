@@ -1,7 +1,7 @@
 package prac2;
 
 /**
- * public Interface3 declares abstract {@link #meth3()}.
+ * public Interface3 declares abstract {@code meth3()}.
  * @author Kusovkyi Kyrylo.
  */
 public interface Interface3 {
